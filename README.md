@@ -9,7 +9,7 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
 *  🌎   Available in EN and PT-BR
 *  📫   Reach me @ rwallier@student.42.rio 
 *  🕴   I'm also on [Linkedin](https://www.linkedin.com/in/richard-wallier-batista-a2655a213/)
-*  🎮   Fun fact: before start to study programing, am i used to HATE THAT! right now i am really code lover!
+*  🎮   Fun fact: Before start to study programing, am i used to HATE THAT! right now i am really code lover!
 
 ## How's 42 going?
 <!--
