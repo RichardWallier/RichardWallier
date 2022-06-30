@@ -11,15 +11,6 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
 *  🕴   I'm also on [Linkedin](https://www.linkedin.com/in/richard-wallier-batista-a2655a213/)
 *  🎮   Fun fact: before start to study programing, am i used to HATE THAT! right now i am really code lover!
 
----
-<a href="https://github.com/RichardWallier/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardWallier&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/RichardWallier/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWallier&show_icons=true&theme=dracula" />
-</a>
-<br> <br/>
-
 ## How's 42 going?
 <!--
 <div>
@@ -43,3 +34,13 @@ Get_Next_Line
 Libft
 [![rwallier's 42 Libft Score](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/project/2581243)](https://github.com/JaeSeoKim/badge42)
 <br> <br/>
+
+---
+<a href="https://github.com/RichardWallier/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardWallier&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/RichardWallier/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWallier&show_icons=true&theme=dracula" />
+</a>
+<br> <br/>
+
