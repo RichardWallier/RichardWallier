@@ -12,35 +12,13 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
 *  🎮   Fun fact: Before start to study programing, am i used to HATE THAT! right now i am really code lover!
 
 ## How's 42 going?
-<!--
-<div>
-  <a href="https://github.com/RichardWallier/42Cursus-libft"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
-  <a href="https://github.com/RichardWallier/42Cursus-GetNextLine"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
-  <a href="https://github.com/RichardWallier/42Cursus-ft_printf"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
+
+  
+  <a href="https://github.com/RichardWallier/42Cursus-libft">
+  <img src="https://user-images.githubusercontent.com/91036103/177065431-91765077-1a29-4fa5-953a-8fb9e5844378.png" height="90" width="90">
+</a>
+  <a href="https://github.com/RichardWallier/42Cursus-GetNextLine"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065437-aa5abbe1-9e6d-4b42-b1d4-551722f0ac97.png" ></a>
+  <a href="https://github.com/RichardWallier/42Cursus-ft_printf"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065616-f52b5ad5-f462-4037-9daf-e50ef8016b92.png"></a>
 <div/>
--->
 
 [![rwallier's 42 stats](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-<br> <br/>
-Born2beroot
-[![rwallier's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/project/2599418)](https://github.com/JaeSeoKim/badge42)
-<br> <br/>
-ft_printf
-[![rwallier's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/project/2599417)](https://github.com/JaeSeoKim/badge42)
-<br> <br/>
-Get_Next_Line
-[![rwallier's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/project/2599416)](https://github.com/JaeSeoKim/badge42)
-<br> <br/>
-Libft
-[![rwallier's 42 Libft Score](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/project/2581243)](https://github.com/JaeSeoKim/badge42)
-<br> <br/>
-
----
-<a href="https://github.com/RichardWallier/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardWallier&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/RichardWallier/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWallier&show_icons=true&theme=dracula" />
-</a>
-<br> <br/>
-
