@@ -18,7 +18,7 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
   <a href="https://github.com/RichardWallier/42Cursus-GetNextLine"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065437-aa5abbe1-9e6d-4b42-b1d4-551722f0ac97.png"></a>
   <a href="https://github.com/RichardWallier/42Cursus-ft_printf"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065616-f52b5ad5-f462-4037-9daf-e50ef8016b92.png"></a>
   <a href="https://github.com/RichardWallier/42Cursus-born2beroot"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113397-35e858d9-998d-4898-a5c5-7e2f50caf15b.png"></a>
- <!--- <a href="https://github.com/RichardWallier/42Cursus-pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113815-5daad004-fe12-4684-9cf8-f8ef8bf9086b.png"></a> --->
+  <a href="https://github.com/RichardWallier/42Cursus-pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113815-5daad004-fe12-4684-9cf8-f8ef8bf9086b.png"></a>
 <div/>
 
 
