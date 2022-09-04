@@ -20,7 +20,7 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
   <a href="https://github.com/RichardWallier/42Cursus-born2beroot"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113397-35e858d9-998d-4898-a5c5-7e2f50caf15b.png"></a>
   <a href="https://github.com/RichardWallier/42Cursus-pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113815-5daad004-fe12-4684-9cf8-f8ef8bf9086b.png"></a>
 <div/>
-  <a href="https://github.com/RichardWallier/42Cursus-pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/188285586-82871a17-57d0-4b24-b720-32b683adf23d.png"></a>
+  <a href="https://github.com/RichardWallier/42Cursus-so_long"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/188285586-82871a17-57d0-4b24-b720-32b683adf23d.png"></a>
 <div/>
 
 
