@@ -19,9 +19,9 @@ I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https:/
   <a href="https://github.com/RichardWallier/42Cursus-ft_printf"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/177065616-f52b5ad5-f462-4037-9daf-e50ef8016b92.png"></a>
   <a href="https://github.com/RichardWallier/42Cursus-born2beroot"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113397-35e858d9-998d-4898-a5c5-7e2f50caf15b.png"></a>
   <a href="https://github.com/RichardWallier/42Cursus-pipex"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/180113815-5daad004-fe12-4684-9cf8-f8ef8bf9086b.png"></a>
-<div/>
   <a href="https://github.com/RichardWallier/42Cursus-so_long"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/188285586-82871a17-57d0-4b24-b720-32b683adf23d.png"></a>
-<div/>
+  <a href="https://github.com/RichardWallier/42Cursus-push_swap"><img height="100" width="100" src="https://user-images.githubusercontent.com/91036103/194776729-75dfd384-11b0-4cac-a13c-386c44bf0244.png"></a>
+
 
 
 [![rwallier's 42 stats](https://badge42.vercel.app/api/v2/cl50cg02n000609l79iwrbtp4/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
