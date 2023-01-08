@@ -5,7 +5,7 @@
 Heyo!👋 <br>
 I'm Richard, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔‍  He/Him
-*  🧠   Learning C, C# and UNIX
+*  🧠   Learning C, C#, UNIX, React, NextJS, NodeJS, Typescript, Javascript
 *  🌎   Available in EN and PT-BR
 *  📫   Reach me @ rwallier@student.42.rio 
 *  🕴   I'm also on [Linkedin](https://www.linkedin.com/in/richard-wallier-batista-a2655a213/)
